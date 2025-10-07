@@ -25,8 +25,8 @@ Diverse domains and object variations make salient object detection (SOD) a chal
 Clone this repository
 
 ```bash
-https://github.com/BellyBeauty/MOESOD.git
-cd MOESOD
+https://github.com/BellyBeauty/MoESOD.git
+cd MoESOD
 ```
 
 #### Step 2:
