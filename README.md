@@ -88,7 +88,7 @@ CUDA_VISIBLE_DEVICES=<gpu device> python -m torch.distributed.launch --nproc_per
 
 ##### Evaluation
 
-
+Download our pretrained [checkpoint](https://pan.baidu.com/s/10-bSz-kVL6Tk9cI9tNEo_A?pwd=3jus) or train your own model!
 ```
 python test.py \
     --data_path <path>/SOD \
@@ -97,6 +97,10 @@ python test.py \
     --gpu_id 0 \
     --result_path <output>/<path>
 ```
+
+## Predicted Saliency Map 
+
+we provide the predicted saliency maps datasets [baidyun](https://pan.baidu.com/s/1YOVvzY1KXG3JsbJt14Di6Q?pwd=erf4) DUTS-TE, DUT-OMRON, HKU-IS, ECSSD and PASCAL-S
 
 
 ## Citation
