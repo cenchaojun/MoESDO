@@ -100,7 +100,7 @@ python test.py \
 
 ## Predicted Saliency Map 
 
-we provide the predicted saliency maps datasets [baidyun](https://pan.baidu.com/s/1YOVvzY1KXG3JsbJt14Di6Q?pwd=erf4) DUTS-TE, DUT-OMRON, HKU-IS, ECSSD and PASCAL-S
+we provide the predicted saliency [maps](https://pan.baidu.com/s/1YOVvzY1KXG3JsbJt14Di6Q?pwd=erf4) datasets DUTS-TE, DUT-OMRON, HKU-IS, ECSSD and PASCAL-S
 
 
 ## Citation
