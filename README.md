@@ -1,6 +1,5 @@
 <div align = 'center'>
-<h1>MoESOD</h1>
-<h3>A multi-scale vision mixture-of-experts for salient object detection with Kolmogorov–Arnold adapter</h3>
+<h1>MoESOD:A multi-scale vision mixture-of-experts for salient object detection with Kolmogorov–Arnold adapter</h1>
 Chaojun Cen, Fei Li, Ping Hu, Zhenbo Li
 
 China Agricultural University
